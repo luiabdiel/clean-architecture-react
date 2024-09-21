@@ -48,3 +48,5 @@ export default tseslint.config({
   },
 })
 ```
+
+https://www.youtube.com/watch?v=qkGrAL4Ue38&t=53s
